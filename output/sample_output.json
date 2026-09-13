@@ -1,0 +1,40 @@
+[
+  {
+    "domain": "postman.com",
+    "company_overview": "Postman is an API platform for building and using APIs, used by development teams to design, test, and document their APIs.",
+    "target_audience": "Developers and engineering teams building and consuming APIs",
+    "contact_points": [
+      "support@postman.com"
+    ],
+    "key_team_members": [
+      {
+        "name": "Abhinav Asthana",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/abhinavasthana/"
+      }
+    ],
+    "data_confidence_score": 0.7
+  },
+  {
+    "domain": "supabase.com",
+    "company_overview": "Supabase is an open-source Firebase alternative providing a Postgres database, authentication, and instant APIs for developers.",
+    "target_audience": "Developers building backend applications who want a managed Postgres-based backend",
+    "contact_points": [],
+    "key_team_members": [
+      {
+        "name": "Paul Copplestone",
+        "role": "CEO & Co-founder",
+        "linkedin_url": null
+      }
+    ],
+    "data_confidence_score": 0.6
+  },
+  {
+    "domain": "vapi.ai",
+    "company_overview": "Vapi provides a developer platform for building voice AI agents.",
+    "target_audience": "Developers building voice-based AI applications",
+    "contact_points": [],
+    "key_team_members": [],
+    "data_confidence_score": 0.4
+  }
+]
